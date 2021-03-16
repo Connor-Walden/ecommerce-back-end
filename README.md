@@ -1,2 +1,12 @@
-# ecommerce-back-end
-A full CRUD implementation of the back end of an e-commerce app.
+## Title
+Ecommerce back end
+
+## Description
+A full CRUD implementation for a ecommerce site. 
+
+## Built with
+- Javascript
+- node.js
+- express
+- Sequelize
+- MySQL
